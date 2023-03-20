@@ -73,7 +73,7 @@ class Vegenere:
             
             
 
-v=Vegenere("Hola pepe","clave",True)
+v=Vegenere("Aca tengo un mensajito desde el paisito","clave",True)
 v.encrypt()
 v.decrypt()
 
